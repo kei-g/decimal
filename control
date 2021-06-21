@@ -1,6 +1,10 @@
 Architecture: amd64
 Depends: libc6 (>=2.31.0)
 Description: Convert binary input to one Decimal integer
+Homepage: https://github.com/kei-g/decimal
 Maintainer: kei-g <km.8k6ce+debpkg@gmail.com>
 Package: decimal
+Priority: optional
+Section: misc
+Source: decimal
 Version: 1.0.0
