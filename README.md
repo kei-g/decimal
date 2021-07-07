@@ -2,4 +2,4 @@
 
 Convert binary input to one Decimal integer
 
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-orange.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![License](https://img.shields.io/github/license/kei-g/decimal?style=plastic)](https://opensource.org/licenses/BSD-3-Clause)
